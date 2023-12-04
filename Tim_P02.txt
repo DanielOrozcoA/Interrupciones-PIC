@@ -1,0 +1,5 @@
+1.68 s por un millon de iteraciones
+por ende 1 iteracion = 0.00000168 s
+
+6 iter para 10 us
+
